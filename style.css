@@ -1,4 +1,13 @@
 .Title_one{
 text-align: center;
-font-family:cursive;
+font-size: 7em;
+  text-decoration:wavy;
+background-color: rgb(115, 118, 137);
+font-family:Georgia, 'Times New Roman', Times, serif;
+  -webkit-text-stroke: 5px rgb(242, 153, 21);
+  color:rgba(0, 0, 0, 0.943)
+  
+
+
+
 }
