@@ -5,12 +5,47 @@ font-size: 7em;
 background-color: rgb(115, 118, 137);
 font-family:Georgia, 'Times New Roman', Times, serif;
   -webkit-text-stroke: 5px rgb(242, 153, 21);
-  color:rgba(0, 0, 0, 0.943)
-  
-
+  color:rgba(0, 0, 0, 0.943)}
+  body{
+    background-image:url(images.png)
+  }
+  .balls{
+    padding-left: 90px;
+  }
+  .flag{
+    padding-left: 600px;
+    
+  }
+  .idk{
+    text-align: center;
+    background-color: rgb(44, 191, 213);
+    font-size: 3em
+  }
+  .head{
+    padding-bottom: 10px;
+    text-align: center;
+  }
+  h2{
+    text-align: center;
+  }
+.footy{
 
 
 }
-img{
-    padding:u
+.goat{
+
+
+   padding-left: 250px
 }
+.injury{
+  padding-left: 250px;
+}
+li{
+  font-family: cursive;
+  font-size: 2.5em;
+}
+
+    
+
+
+
