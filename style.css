@@ -24,13 +24,15 @@ font-family:Georgia, 'Times New Roman', Times, serif;
   .head{
     padding-bottom: 10px;
     text-align: center;
+    font-size:3em;
   }
   h2{
     text-align: center;
+    font-size:4em;
   }
 .footy{
 
-
+padding-left:2px;
 }
 .goat{
 
@@ -43,9 +45,19 @@ font-family:Georgia, 'Times New Roman', Times, serif;
 li{
   font-family: cursive;
   font-size: 2.5em;
-}
 
-    
+}
+.leicester{
+  padding-left:35px;
+}
+.barca,.psg{
+  padding-left:250px;
+}
+.nextone{
+  font-size: 4em;
+  text-align: center;
+  padding-bottom:100px;
+}
 
 
 
