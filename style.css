@@ -37,10 +37,10 @@ padding-left:2px;
 .goat{
 
 
-   padding-left: 250px
+   padding-left: 260px
 }
 .injury{
-  padding-left: 250px;
+  padding-left: 240px;
 }
 li{
   font-family: cursive;
@@ -76,9 +76,44 @@ li{
 .passtimes{
   font-size:3em;
   text-align: center;
+  padding-bottom: 10px;
+}
+h3{
+  font-size:2em;
+  text-align: left;
+
+}
+.bass{
+  padding-left: 200px;
+
+}
+.fortnite{
+  padding-left: 30px;
+}
+.banana{
+  padding-left: 200px;
+}
+th{
+  font-size:2em;
+
+  
 }
 
-
+tr{
+  font-size: 2em;
+  text-align: center;
+}
+.end{
+  padding-top: 60px;
+  font-size: 5em;
+  text-align: center;
+}
+.thankyou2{
+  padding-left: 300px;
+}
+.messi{
+padding-left: 400px;
+}
 
 
 
