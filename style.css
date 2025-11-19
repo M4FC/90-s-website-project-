@@ -56,8 +56,32 @@ li{
 .nextone{
   font-size: 4em;
   text-align: center;
-  padding-bottom:100px;
+  padding-bottom:10px;
 }
+.ecuadortalk{
+  font-size: 2em;
+  text-align: center;
+  padding-bottom: 50px;
+}
+.quito,.mountains,.nature,.moremountains{
+  padding-left: 37px;
+  padding-top: 10px
+}
+.goodflag{
+  padding-left: 560px;
+}
+.newflag{
+  padding-left: 100px;
+}
+.passtimes{
+  font-size:3em;
+  text-align: center;
+}
+
+
+
+
+
 
 
 
